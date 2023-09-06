@@ -1,2 +1,2 @@
 # Advice_app_in_React
-Created with CodeSandbox
+This is a simple React application which gives you an advice when you click on the button.
